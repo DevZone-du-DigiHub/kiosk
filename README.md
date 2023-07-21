@@ -20,8 +20,7 @@ One of the system architecture that is listed below:
 ## About those files.
 
 Download only the folder with your system name on it. There will be a script inside that will guide you through the installation.
-This exemple uses our cookbook for the kiosk found here:
-https://www.noxgamingqc.ca/en-ca/cookbook
+This exemple uses the digitaline ai for the kiosk found [here](https://www.digitaline.ai)
 
 Make sure to edit `./kiosk.sh` for each RaspberryPi.
 
