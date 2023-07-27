@@ -1,10 +1,9 @@
 # Kiosk
 
-<p align="left">
-  <img alt="OS" src="https://img.shields.io/badge/OS-RaspberryPi%203-magenta?style=for-the-badge" />
-  <img alt="OS" src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge" />
-  <img alt="Discord" src="https://img.shields.io/discord/938558244924829756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=%20&labelColor=%23697EC4&color=%237289DA&link=https%3A%2F%2Fnoxgamingqc.ca%2Fdiscord">
-</p>
+[![Type](https://img.shields.io/badge/project%20type-system-blue?style=for-the-badge&labelColor=333333)](#)
+[![State](https://img.shields.io/badge/state-maintained-228C22?style=for-the-badge&labelColor=333333)](#)
+[![Repo size](https://img.shields.io/github/repo-size/NoxGamingQC/kiosk?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=333333)](#)
+[![License](https://img.shields.io/github/license/NoxGamingQC/kiosk?style=for-the-badge&labelColor=333333)](#)
 
 
 This project is only to help you put your system in kiosk mode.
@@ -18,11 +17,13 @@ For more information please visit: https://www.noxgamingqc/kiosk
 One of the system architecture that is listed below:
 
 - Linux systems
-  - [Raspberry Pi 3](Linux/Raspberry%20Pi%203)
-  - [Ubuntu](Linux/Ubuntu)
-    - [22.04](Linux/Ubuntu/22.04)
+
+  [![Raspberry Pi 3](https://img.shields.io/badge/Raspberry%20Pi%203-B61040?style=for-the-badge&logo=raspberry-pi&logoColor=white)](Linux/Raspberry%20Pi%203)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=333333)](Linux/Ubuntu/22.04)
+
 - Windows systems
-  - Windows 11 (Soon)
+
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-soon-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white&labelColor=333333)
 
 ## About those files.
 
